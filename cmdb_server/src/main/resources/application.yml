@@ -1,0 +1,7 @@
+spring:
+  data:
+    arangodb:
+      hosts: localhost:8529
+      user: root
+      password: 123456
+      database: learn
